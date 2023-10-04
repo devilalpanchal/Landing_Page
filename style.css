@@ -149,9 +149,9 @@ img {
   gap: 1.5rem;
 }
 
-.l-header {
+.header {
   width: 100%;
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
